@@ -2,7 +2,7 @@
 
 I’m a **Junior Software Engineer** passionate about building clean, maintainable, and scalable applications using modern backend and full-stack technologies.
 
-📍 Based in Chicago, IL  
+  
 🎓 MS in Computer Science  
 💼 Looking for software engineering opportunities
 
